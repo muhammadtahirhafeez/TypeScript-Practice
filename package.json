@@ -1,0 +1,15 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "typescript.js",
+  "scripts": {
+    "start": "nodemon --exec ts-node typescript.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.0"
+  }
+}
